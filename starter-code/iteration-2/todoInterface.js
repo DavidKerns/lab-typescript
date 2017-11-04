@@ -1,1 +1,5 @@
-"use strict";
+var AddTask = (function () {
+    function AddTask() {
+    }
+    return AddTask;
+}());
